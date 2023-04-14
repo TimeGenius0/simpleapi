@@ -1,0 +1,5 @@
+packages:
+  - name: send
+    actions:
+      - name: message
+        runtime: 'python:default'
